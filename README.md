@@ -1,4 +1,4 @@
 # myAmazon
-This is my AmazonClone website using HTML && CSS
+This is my Amazon Clone website using HTML && CSS
 <br>
 Author- Harshvardhan Pathak
