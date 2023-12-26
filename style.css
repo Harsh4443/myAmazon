@@ -166,6 +166,10 @@ span{
     background-color: #e2e7e6;
 }
 
+.shop-section h2:hover{
+    color: lightgreen;
+}
+
 .box{
     /* border: 2px solid black; */
     height: 400px;
